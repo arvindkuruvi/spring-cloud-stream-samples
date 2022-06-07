@@ -1,3 +1,6 @@
+== Refer Stream bridge sample for kafka cloud stream binder example
+
+
 == Spring Cloud Stream Sample Applications
 
 This repository contains a collection of applications written using Spring Cloud Stream. All the applications are self contained.
